@@ -1,0 +1,51 @@
+body{
+  text-align: Center;
+  background-color: #10002b;
+  color: #bbadff;
+}
+
+#heading{
+  font-size: 150px;
+  color: #e0c3fc;
+  font-family: Helvetica, sans-serif;
+}
+
+#Image1{
+  width: 400px;
+  height: 400px;
+  border: 10px;
+  border-style: solid;
+  border-color: White;
+  border-radius: 50%;
+}
+
+#p1{
+  font-size: 100px;
+  color: #deaaff;
+}
+
+#p2{
+  font-size: 40px;
+  color: white;
+    
+}
+
+#p3{
+  font-size: 40px;
+  color: white;
+}
+
+#p4{
+  font-size: 40px;
+  color: white;
+}
+
+#p5{
+  font-size: 40px;
+  color: white;
+}
+
+#p6{
+  font-size: 40px;
+  color: white;
+}
