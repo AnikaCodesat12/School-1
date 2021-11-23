@@ -1,2 +1,0 @@
-function flipimage() {
-  document.getElementById("image1").src = "https://images.unsplash.com/photo-1621872111567-77b6f50a17a1?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMzUxNDYwNg&ixlib=rb-1.2.1&q=85";
